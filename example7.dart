@@ -20,3 +20,4 @@ void main() {
   Point p4 = Point(2, 2);
   print("The p4 hash code is: ${p4.hashCode}");
 }
+example
